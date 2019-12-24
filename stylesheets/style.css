@@ -19,6 +19,7 @@ h3 {font-size: 18px;}
 	background-position: center;
 	background-image: url(../images/bg-top.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #introtext {
@@ -33,6 +34,7 @@ h3 {font-size: 18px;}
 	background-position: center;
 	background-image: url(../images/bg-btm.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /*firststeps*/
@@ -51,6 +53,8 @@ h3 {font-size: 18px;}
 
 #gradientblocks ul {
 	display: flex;
+    justify-content: center;
+
 }
 
 #gradientblock1 {
