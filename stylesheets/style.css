@@ -1,4 +1,4 @@
-/*main stuff*/
+/*main*/
 
 * {
 	box-sizing: border-box;
@@ -54,6 +54,7 @@ h3 {font-size: 18px;}
 #gradientblocks ul {
 	display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 
 }
 
@@ -111,6 +112,7 @@ h3 {font-size: 18px;}
 
 #circles {
 	display: flex;
+	flex-wrap: wrap;
 	text-align: center;
 	line-height: 20px;
 }
@@ -123,6 +125,7 @@ h3 {font-size: 18px;}
 #circles li {
 	flex-basis: calc(100% / 5);
 	margin-left: 55px;
+	margin-top: 50px;
 }
 
 #circle1 {
