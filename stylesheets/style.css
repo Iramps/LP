@@ -115,6 +115,7 @@ h3 {font-size: 18px;}
 	flex-wrap: wrap;
 	text-align: center;
 	line-height: 20px;
+	justify-content: center;
 }
 
 #maintext {
